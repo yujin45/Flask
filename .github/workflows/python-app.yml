@@ -24,5 +24,5 @@ jobs:
         image: yujin45/github-actions-app
         tags: v3, latest
         registry: docker.io
-        username: ${{ secrets.DOCKER_USERNAME }}
-        password: ${{ secrets.DOCKER_PASSWORD }}
+        username: yujin45
+        password: dckr_pat_bKIwZgdQ5ai6UH30DGEOmK00iAs
